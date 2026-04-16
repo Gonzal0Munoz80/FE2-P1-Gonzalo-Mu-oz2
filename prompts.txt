@@ -1,1 +1,11 @@
 etapa 1 version inicial
+Versión inicial Construye una primera versión del sitio que incluya:
+• nombre del producto,
+
+• breve descripción,
+
+• una estructura básica del sitio,
+
+• una sección destacada (presentación del producto).
+
+El proposito fue crear la estructura inicial del proyecto para el desarrollo este fue util para dar el inicio al desarrollo de la pagina 
