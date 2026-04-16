@@ -67,7 +67,15 @@ footer {
     color: #fff;
     font-size: 0.9rem;
 }
-
+.producto-imagen {
+    display: block;
+    max-width: 100%; /* La imagen no excederá el ancho del contenedor */
+    height: auto; /* Mantiene la proporción de la imagen */
+    margin: 1rem auto; /* Centra la imagen horizontalmente */
+    border-radius: 10px; /* Bordes redondeados */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Sombra para un diseño moderno */
+    width: 300px; /* Ajusta el ancho de la imagen */
+}
 /* Adaptación para dispositivos móviles */
 @media (max-width: 768px) {
     header {
