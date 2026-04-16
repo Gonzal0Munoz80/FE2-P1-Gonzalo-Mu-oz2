@@ -25,3 +25,19 @@ Debes:
 
 El propsito de este prompt fue hacer la mejora visual de la pagina usando tipografia mdoerna colores mejorados y agregar un diseño responsivo
 este fue util al momento de mejorar la pagina en base a lo visual 
+
+Etapa 3 Incorporacion de contenido
+ahora necesito una incorporacion de contenido 3. Incorporación de contenido El producto necesita ser mejor explicado al usuario.
+
+Debes agregar nuevas secciones, por ejemplo:
+
+• características principales,
+
+• beneficios del producto,
+
+• especificaciones técnicas,
+
+• posibles usos o ventajas frente a otros productos.
+
+este prompt se utilizo para añadir la incorporacion de contenido a la pagina de los beneficios del producto características principales y especificaciones tecnicas
+este me fue util para añadir el contenido del producto a la pagina permitiendo ver las diferentes caracteristicas del producto
