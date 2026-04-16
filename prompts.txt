@@ -58,3 +58,16 @@ asegurar buena legibilidad,
 evitar problemas de distribución o superposición.
 
 este prompt permitio al adaptacion a movilescomo pantalas de 768px y 480px y se ajusto los tamaños de texto y encabezados para que sean legibles en pantallas pequeñas
+
+Etapa 5 5. Mejora final obligatoria
+Debes incorporar una sección tipo ficha de producto o comparativa, que incluya:
+
+•
+características organizadas (por ejemplo: tabla o listado),
+
+•
+al menos 2–3 atributos técnicos relevantes,
+
+•
+una presentación clara y ordenada de la información.
+Este prompt añadio una lista de caracterizticas del producto como el almacenamiento el tipo de pantalla y el procesador
