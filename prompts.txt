@@ -58,7 +58,7 @@ asegurar buena legibilidad,
 evitar problemas de distribución o superposición.
 
 este prompt permitio al adaptacion a movilescomo pantalas de 768px y 480px y se ajusto los tamaños de texto y encabezados para que sean legibles en pantallas pequeñas
-
+para mayor flexibilidad al usar ya que usa max-width para la adaptacion para dispostivos celulares
 Etapa 5 5. Mejora final obligatoria
 Debes incorporar una sección tipo ficha de producto o comparativa, que incluya:
 
@@ -71,3 +71,11 @@ al menos 2–3 atributos técnicos relevantes,
 •
 una presentación clara y ordenada de la información.
 Este prompt añadio una lista de caracterizticas del producto como el almacenamiento el tipo de pantalla y el procesador
+
+en la totalidad este cambio fue util para ver las caracteristicas del producto 
+
+Etapa 6 Animaciones
+puedes añadirle animaciones para que se vea mas atractivo
+
+este simplemente fue para añadirle anaiamciones a la pagina y que se vea mas atractivo 
+no fue tan util ya que no tiene una funcionalidad parte de hacerlo mas atractivo

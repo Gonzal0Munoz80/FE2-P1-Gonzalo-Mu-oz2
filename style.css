@@ -34,6 +34,7 @@ section {
     border: 1px solid #ddd;
     border-radius: 10px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    animation: fadeIn 1s ease-in-out; /* Animación de desvanecimiento */
 }
 
 h2 {
@@ -67,6 +68,7 @@ footer {
     color: #fff;
     font-size: 0.9rem;
 }
+
 .producto-imagen {
     display: block;
     max-width: 100%; /* La imagen no excederá el ancho del contenedor */
@@ -75,7 +77,38 @@ footer {
     border-radius: 10px; /* Bordes redondeados */
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Sombra para un diseño moderno */
     width: 300px; /* Ajusta el ancho de la imagen */
+    animation: zoomIn 1s ease-in-out; /* Animación de zoom */
 }
+
+.producto-imagen:hover {
+    transform: scale(1.05); /* Efecto de zoom al pasar el mouse */
+    transition: transform 0.3s ease-in-out;
+}
+
+/* Animación de desvanecimiento */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* Animación de zoom */
+@keyframes zoomIn {
+    from {
+        transform: scale(0.9);
+        opacity: 0;
+    }
+    to {
+        transform: scale(1);
+        opacity: 1;
+    }
+}
+
 /* Adaptación para dispositivos móviles */
 @media (max-width: 768px) {
     header {
