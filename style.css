@@ -27,19 +27,13 @@ main {
     margin: 0 auto;
 }
 
-.descripcion, .destacado {
+section {
     margin: 2rem 0;
     padding: 2rem;
     background: #fff;
     border: 1px solid #ddd;
     border-radius: 10px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
-}
-
-.descripcion:hover, .destacado:hover {
-    transform: translateY(-5px);
-    box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2);
 }
 
 h2 {
@@ -48,10 +42,22 @@ h2 {
     margin-bottom: 1rem;
 }
 
-p {
+p, ul, table {
     font-size: 1.1rem;
     line-height: 1.8;
     color: #555;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 1rem;
+}
+
+table th, table td {
+    border: 1px solid #ddd;
+    padding: 0.5rem;
+    text-align: left;
 }
 
 footer {
@@ -59,30 +65,62 @@ footer {
     padding: 1rem 0;
     background: #333;
     color: #fff;
-    position: relative;
-    bottom: 0;
-    width: 100%;
     font-size: 0.9rem;
 }
 
-footer p {
-    margin: 0;
-}
-
+/* Adaptación para dispositivos móviles */
 @media (max-width: 768px) {
-    main {
-        padding: 1rem;
-    }
-
-    .descripcion, .destacado {
-        padding: 1.5rem;
+    header {
+        padding: 1.5rem 0;
     }
 
     h1 {
         font-size: 2rem;
     }
 
+    main {
+        padding: 1rem;
+    }
+
+    section {
+        padding: 1.5rem;
+    }
+
     h2 {
         font-size: 1.5rem;
+    }
+
+    p, ul, table {
+        font-size: 1rem;
+    }
+
+    table th, table td {
+        padding: 0.3rem;
+    }
+}
+
+@media (max-width: 480px) {
+    h1 {
+        font-size: 1.8rem;
+    }
+
+    h2 {
+        font-size: 1.3rem;
+    }
+
+    section {
+        padding: 1rem;
+    }
+
+    p, ul, table {
+        font-size: 0.9rem;
+    }
+
+    table {
+        font-size: 0.8rem;
+    }
+
+    table th, table td {
+        padding: 0.2rem;
     }
 }

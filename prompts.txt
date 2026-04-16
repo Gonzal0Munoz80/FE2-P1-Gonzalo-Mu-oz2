@@ -41,3 +41,20 @@ Debes agregar nuevas secciones, por ejemplo:
 
 este prompt se utilizo para añadir la incorporacion de contenido a la pagina de los beneficios del producto características principales y especificaciones tecnicas
 este me fue util para añadir el contenido del producto a la pagina permitiendo ver las diferentes caracteristicas del producto
+
+Etapa 4 Adaptacion a dispositivos moviles 
+4. Adaptación a dispositivos móviles
+El sitio será visualizado principalmente desde celulares.
+
+Debes:
+
+•
+adaptar el diseño a pantallas pequeñas,
+
+•
+asegurar buena legibilidad,
+
+•
+evitar problemas de distribución o superposición.
+
+este prompt permitio al adaptacion a movilescomo pantalas de 768px y 480px y se ajusto los tamaños de texto y encabezados para que sean legibles en pantallas pequeñas
