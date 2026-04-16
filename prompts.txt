@@ -9,3 +9,19 @@ Versión inicial Construye una primera versión del sitio que incluya:
 • una sección destacada (presentación del producto).
 
 El proposito fue crear la estructura inicial del proyecto para el desarrollo este fue util para dar el inicio al desarrollo de la pagina 
+
+Etapa 2 Mejora visual 
+ahora quiero una mejora visual El cliente considera que el sitio es funcional, pero necesita una mejor presentación.
+
+Debes:
+
+• mejorar el diseño visual,
+
+• aplicar estilos más trabajados,
+
+• mejorar la distribución del contenido,
+
+• lograr una apariencia moderna.
+
+El propsito de este prompt fue hacer la mejora visual de la pagina usando tipografia mdoerna colores mejorados y agregar un diseño responsivo
+este fue util al momento de mejorar la pagina en base a lo visual 
